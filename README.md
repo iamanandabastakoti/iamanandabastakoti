@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iamanandabastakoti/iamanandabastakoti/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
 
 ###
