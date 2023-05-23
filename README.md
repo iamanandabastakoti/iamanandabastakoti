@@ -47,6 +47,4 @@
 
 ###
 
-![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
-
 ###
