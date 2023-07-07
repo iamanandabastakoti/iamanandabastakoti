@@ -52,6 +52,9 @@
   <a href="https://www.linkedin.com/in/anandabastakoti/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://anandabastakoti.netlify.app/" target="_blank">
+    <img src="https://i.pinimg.com/originals/fd/71/cc/fd71cc920df96dfb498587b177d3c658.png" width="40" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
