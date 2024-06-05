@@ -56,9 +56,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iamanandabastakoti&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="222" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanandabastakoti&radius=16&theme=github-light&area=true&order=5&hide_border=false" height="350" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamanandabastakoti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanandabastakoti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanandabastakoti&radius=16&theme=github-light&area=true&order=5&hide_border=false" height="333" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamanandabastakoti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamanandabastakoti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
